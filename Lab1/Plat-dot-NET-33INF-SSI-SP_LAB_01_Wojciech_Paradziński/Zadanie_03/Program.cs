@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections;
+
+// Rozszerzenie - sortowanie po nazwie
 
 class Program {
     static void Main(string[] args) {
@@ -24,8 +27,13 @@ class Program {
         Console.WriteLine("\n=== Wszystkie zmienne środowiskowe ===");
 
         var variables = Environment.GetEnvironmentVariables();
-
-        foreach (var key in variables.Keys) {
+        
+        object[] keys = new object[variables.Keys.Count];
+        variables.Keys.CopyTo(keys, 0);
+        
+        Array.Sort(keys, StringComparer.OrdinalIgnoreCase);
+        
+        foreach (var key in keys) {
             Console.WriteLine($"{key} = {variables[key]}");
         }
     }
