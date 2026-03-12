@@ -1,0 +1,15 @@
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/bin/Debug/net10.0/Zadanie_04
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/bin/Debug/net10.0/Zadanie_04.deps.json
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/bin/Debug/net10.0/Zadanie_04.runtimeconfig.json
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/bin/Debug/net10.0/Zadanie_04.dll
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/bin/Debug/net10.0/Zadanie_04.pdb
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.AssemblyInfoInputs.cache
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.AssemblyInfo.cs
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.csproj.CoreCompileInputs.cache
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.sourcelink.json
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.dll
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/refint/Zadanie_04.dll
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.pdb
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/Zadanie_04.genruntimeconfig.cache
+/home/user/Pulpit/C#/LAB-.NET/Lab1/Plat-dot-NET-33INF-SSI-SP_LAB_01_Wojciech_Paradziński/Zadanie_04/obj/Debug/net10.0/ref/Zadanie_04.dll
