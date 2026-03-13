@@ -1,0 +1,10 @@
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.csproj.AssemblyReference.cache
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.Properties.Resources.resources
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.csproj.GenerateResource.cache
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.csproj.CoreCompileInputs.cache
+E:\33INF-SSI\labb2\labb2\bin\Debug\labb2.exe.config
+E:\33INF-SSI\labb2\labb2\bin\Debug\labb2.exe
+E:\33INF-SSI\labb2\labb2\bin\Debug\labb2.pdb
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.Form1.resources
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.exe
+E:\33INF-SSI\labb2\labb2\obj\Debug\labb2.pdb
