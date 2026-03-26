@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/Elementy rozwiązania/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="labb2/Zadanie_01.csproj" Id="1b6253ea-cd49-41f9-8c31-b694761a8ed8" />
   <Project Path="Zad2/Zadanie_02.csproj" Id="9c167ee3-735e-4e01-8817-40619b83f618" />
+  <Project Path="Zadanie_04/Zadanie_04.csproj" Id="94ed04c6-caf8-42bd-b451-40e4b60b844a" />
+  <Project Path="Zadanie_05/Zadanie_05.csproj" Id="d5af520a-1c08-47a4-9296-a8ae9b201792" />
+  <Project Path="Zadanie_06/Zadanie_06.csproj" Id="fbd78b31-0143-4db7-aca0-c9298395bfe0" />
+  <Project Path="Zadanie_07/Zadanie_07.csproj" Id="b53d1af1-4fec-4585-9896-d827c9fe9443" />
+  <Project Path="Zadanie_3/Zadanie_03.csproj" Id="3660a88f-7091-4077-9ecb-3a27db16564e" />
 </Solution>

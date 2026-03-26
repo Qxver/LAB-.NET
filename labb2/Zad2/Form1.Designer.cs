@@ -35,9 +35,9 @@
             this.liczbaA = new System.Windows.Forms.TextBox();
             this.LiczbaB = new System.Windows.Forms.TextBox();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
-            this.wynik = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.wynik = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // dodaj
@@ -96,15 +96,6 @@
             this.LiczbaB.TabIndex = 6;
             this.LiczbaB.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
-            // wynik
-            // 
-            this.wynik.AutoSize = true;
-            this.wynik.Location = new System.Drawing.Point(374, 227);
-            this.wynik.Name = "wynik";
-            this.wynik.Size = new System.Drawing.Size(0, 13);
-            this.wynik.TabIndex = 7;
-            this.wynik.Click += new System.EventHandler(this.label1_Click);
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -113,6 +104,7 @@
             this.label1.Size = new System.Drawing.Size(48, 13);
             this.label1.TabIndex = 8;
             this.label1.Text = "Liczba A";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // label2
             // 
@@ -124,14 +116,21 @@
             this.label2.Text = "Liczba B";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
+            // wynik
+            // 
+            this.wynik.Location = new System.Drawing.Point(342, 217);
+            this.wynik.Name = "wynik";
+            this.wynik.Size = new System.Drawing.Size(100, 20);
+            this.wynik.TabIndex = 10;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.wynik);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.wynik);
             this.Controls.Add(this.LiczbaB);
             this.Controls.Add(this.liczbaA);
             this.Controls.Add(this.podziel);
@@ -140,6 +139,7 @@
             this.Controls.Add(this.dodaj);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -154,9 +154,9 @@
         private System.Windows.Forms.TextBox liczbaA;
         private System.Windows.Forms.TextBox LiczbaB;
         private System.Windows.Forms.ColorDialog colorDialog1;
-        private System.Windows.Forms.Label wynik;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox wynik;
     }
 }
 
