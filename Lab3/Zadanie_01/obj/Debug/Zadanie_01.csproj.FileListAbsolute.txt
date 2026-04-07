@@ -1,0 +1,10 @@
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\bin\Debug\Zadanie_01.exe.config
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\bin\Debug\Zadanie_01.exe
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\bin\Debug\Zadanie_01.pdb
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Zadanie_01.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Lab3.Form1.resources
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Zadanie_01.csproj.GenerateResource.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Zadanie_01.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Zadanie_01.exe
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_01\obj\Debug\Zadanie_01.pdb

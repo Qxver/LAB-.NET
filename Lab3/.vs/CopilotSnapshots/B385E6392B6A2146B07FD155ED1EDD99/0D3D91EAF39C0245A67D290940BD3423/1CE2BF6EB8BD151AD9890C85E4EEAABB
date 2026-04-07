@@ -1,0 +1,261 @@
+﻿namespace Zadanie_03
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.txtP = new TextBox();
+            this.txtD = new TextBox();
+            this.txtQ = new TextBox();
+            this.txtN = new TextBox();
+            txtE = new TextBox();
+            label1 = new Label();
+            label2 = new Label();
+            label3 = new Label();
+            label4 = new Label();
+            label5 = new Label();
+            txtWiadomosc = new TextBox();
+            label6 = new Label();
+            txtSzyfrogram = new TextBox();
+            label7 = new Label();
+            txtZdeszyfrowane = new TextBox();
+            label8 = new Label();
+            this.btnGenerujKlucze = new Button();
+            btnSzyfruj = new Button();
+            button3 = new Button();
+            SuspendLayout();
+            // 
+            // txtP
+            // 
+            this.txtP.Location = new Point(226, 139);
+            this.txtP.Name = "txtP";
+            this.txtP.Size = new Size(100, 23);
+            this.txtP.TabIndex = 0;
+            // 
+            // txtD
+            // 
+            this.txtD.Location = new Point(454, 223);
+            this.txtD.Name = "txtD";
+            this.txtD.Size = new Size(100, 23);
+            this.txtD.TabIndex = 1;
+            // 
+            // txtQ
+            // 
+            this.txtQ.Location = new Point(379, 139);
+            this.txtQ.Name = "txtQ";
+            this.txtQ.Size = new Size(100, 23);
+            this.txtQ.TabIndex = 2;
+            // 
+            // txtN
+            // 
+            this.txtN.Location = new Point(295, 223);
+            this.txtN.Name = "txtN";
+            this.txtN.Size = new Size(100, 23);
+            this.txtN.TabIndex = 3;
+            // 
+            // txtE
+            // 
+            txtE.Location = new Point(541, 139);
+            txtE.Name = "txtE";
+            txtE.Size = new Size(100, 23);
+            txtE.TabIndex = 4;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(226, 121);
+            label1.Name = "label1";
+            label1.Size = new Size(14, 15);
+            label1.TabIndex = 5;
+            label1.Text = "P";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(379, 121);
+            label2.Name = "label2";
+            label2.Size = new Size(16, 15);
+            label2.TabIndex = 6;
+            label2.Text = "Q";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(541, 121);
+            label3.Name = "label3";
+            label3.Size = new Size(13, 15);
+            label3.TabIndex = 7;
+            label3.Text = "E";
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(295, 205);
+            label4.Name = "label4";
+            label4.Size = new Size(16, 15);
+            label4.TabIndex = 8;
+            label4.Text = "N";
+            label4.Click += label4_Click;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(454, 205);
+            label5.Name = "label5";
+            label5.Size = new Size(15, 15);
+            label5.TabIndex = 9;
+            label5.Text = "D";
+            // 
+            // txtWiadomosc
+            // 
+            txtWiadomosc.Location = new Point(295, 58);
+            txtWiadomosc.Name = "txtWiadomosc";
+            txtWiadomosc.Size = new Size(273, 23);
+            txtWiadomosc.TabIndex = 10;
+            // 
+            // label6
+            // 
+            label6.AutoSize = true;
+            label6.Location = new Point(295, 40);
+            label6.Name = "label6";
+            label6.Size = new Size(126, 15);
+            label6.TabIndex = 11;
+            label6.Text = "Tekst do zaszyfrowania";
+            // 
+            // txtSzyfrogram
+            // 
+            txtSzyfrogram.Location = new Point(295, 297);
+            txtSzyfrogram.Name = "txtSzyfrogram";
+            txtSzyfrogram.Size = new Size(273, 23);
+            txtSzyfrogram.TabIndex = 12;
+            // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(295, 279);
+            label7.Name = "label7";
+            label7.Size = new Size(105, 15);
+            label7.TabIndex = 13;
+            label7.Text = "Wynik szyfrowania";
+            // 
+            // txtZdeszyfrowane
+            // 
+            txtZdeszyfrowane.Location = new Point(295, 355);
+            txtZdeszyfrowane.Name = "txtZdeszyfrowane";
+            txtZdeszyfrowane.Size = new Size(273, 23);
+            txtZdeszyfrowane.TabIndex = 14;
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Location = new Point(295, 337);
+            label8.Name = "label8";
+            label8.Size = new Size(118, 15);
+            label8.TabIndex = 15;
+            label8.Text = "Wynik deszyfrowania";
+            // 
+            // btnGenerujKlucze
+            // 
+            this.btnGenerujKlucze.Location = new Point(108, 394);
+            this.btnGenerujKlucze.Name = "btnGenerujKlucze";
+            this.btnGenerujKlucze.Size = new Size(75, 44);
+            this.btnGenerujKlucze.TabIndex = 16;
+            this.btnGenerujKlucze.Text = "Generuj klucze";
+            this.btnGenerujKlucze.UseVisualStyleBackColor = true;
+            // 
+            // btnSzyfruj
+            // 
+            btnSzyfruj.Location = new Point(379, 406);
+            btnSzyfruj.Name = "btnSzyfruj";
+            btnSzyfruj.Size = new Size(75, 23);
+            btnSzyfruj.TabIndex = 17;
+            btnSzyfruj.Text = "Szyfruj";
+            btnSzyfruj.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(649, 406);
+            button3.Name = "button3";
+            button3.Size = new Size(75, 23);
+            button3.TabIndex = 18;
+            button3.Text = "Deszyfruj";
+            button3.UseVisualStyleBackColor = true;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(button3);
+            Controls.Add(btnSzyfruj);
+            Controls.Add(this.btnGenerujKlucze);
+            Controls.Add(label8);
+            Controls.Add(txtZdeszyfrowane);
+            Controls.Add(label7);
+            Controls.Add(txtSzyfrogram);
+            Controls.Add(label6);
+            Controls.Add(txtWiadomosc);
+            Controls.Add(label5);
+            Controls.Add(label4);
+            Controls.Add(label3);
+            Controls.Add(label2);
+            Controls.Add(label1);
+            Controls.Add(txtE);
+            Controls.Add(this.txtN);
+            Controls.Add(this.txtQ);
+            Controls.Add(this.txtD);
+            Controls.Add(this.txtP);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private TextBox textBox3;
+        private TextBox textBox4;
+        private TextBox txtE;
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private Label label4;
+        private Label label5;
+        private TextBox txtWiadomosc;
+        private Label label6;
+        private TextBox txtSzyfrogram;
+        private Label label7;
+        private TextBox txtZdeszyfrowane;
+        private Label label8;
+        private Button button1;
+        private Button btnSzyfruj;
+        private Button btnDeszyfruj;
+        private Button button3;
+    }
+}

@@ -1,0 +1,15 @@
+# Visual Studio Virtual Cache
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
