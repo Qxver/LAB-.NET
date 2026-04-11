@@ -1,0 +1,15 @@
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\bin\Debug\net10.0\Zadanie_05.exe
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\bin\Debug\net10.0\Zadanie_05.deps.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\bin\Debug\net10.0\Zadanie_05.runtimeconfig.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\bin\Debug\net10.0\Zadanie_05.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\bin\Debug\net10.0\Zadanie_05.pdb
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.sourcelink.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\refint\Zadanie_05.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.pdb
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\Zadanie_05.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab3\Zadanie_05\obj\Debug\net10.0\ref\Zadanie_05.dll
