@@ -1,0 +1,9 @@
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.csproj.AssemblyReference.cache
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.Properties.Resources.resources
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.csproj.GenerateResource.cache
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.csproj.CoreCompileInputs.cache
+E:\33INF-SSI\Lab4\Zadanie_01\bin\Debug\Zadanie_01.exe.config
+E:\33INF-SSI\Lab4\Zadanie_01\bin\Debug\Zadanie_01.exe
+E:\33INF-SSI\Lab4\Zadanie_01\bin\Debug\Zadanie_01.pdb
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.exe
+E:\33INF-SSI\Lab4\Zadanie_01\obj\Debug\Zadanie_01.pdb
