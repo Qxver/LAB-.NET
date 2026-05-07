@@ -1,0 +1,16 @@
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.csproj.AssemblyReference.cache
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.Form1.resources
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.Properties.Resources.resources
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.csproj.GenerateResource.cache
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\Zadanie_04.exe.config
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\Zadanie_04.exe
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\Zadanie_04.pdb
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\SharpDX.dll
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\SharpDX.pdb
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.csproj.Up2Date
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.exe
+C:\Users\grzeg\source\repos\Qxver\LAB-.NET\Lab4\Zadanie_04\obj\Debug\Zadanie_04.pdb
