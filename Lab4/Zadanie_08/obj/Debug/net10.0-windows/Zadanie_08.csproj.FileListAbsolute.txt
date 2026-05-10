@@ -1,0 +1,17 @@
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\bin\Debug\net10.0-windows\Zadanie_08.exe
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\bin\Debug\net10.0-windows\Zadanie_08.deps.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\bin\Debug\net10.0-windows\Zadanie_08.runtimeconfig.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\bin\Debug\net10.0-windows\Zadanie_08.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\bin\Debug\net10.0-windows\Zadanie_08.pdb
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.Form1.resources
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.csproj.GenerateResource.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.sourcelink.json
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\refint\Zadanie_08.dll
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.pdb
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\Zadanie_08.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\LAB-.NET\Lab4\Zadanie_08\obj\Debug\net10.0-windows\ref\Zadanie_08.dll

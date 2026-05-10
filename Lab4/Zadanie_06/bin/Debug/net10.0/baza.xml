@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BazaOsob xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba>
+    <Imie>Jan</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Wiek>30</Wiek>
+  </Osoba>
+  <Osoba>
+    <Imie>Anna</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Wiek>22</Wiek>
+  </Osoba>
+</BazaOsob>
