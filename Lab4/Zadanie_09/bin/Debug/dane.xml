@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Produkty>
+  <Produkt Nazwa="Myszka komputerowa" Cena="120.50" />
+  <Produkt Nazwa="Klawiatura mechaniczna" Cena="350.00" />
+  <Produkt Nazwa="Monitor 24 cale" Cena="800.00" />
+  <Produkt Nazwa="Podkładka pod mysz" Cena="45.99" />
+  <Produkt Nazwa="Kabel HDMI" Cena="25.00" />
+</Produkty>

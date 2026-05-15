@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Galeria>
+  <Zdjecie Sciezka="E:\33INF-SSI\Lab4\Zadanie_10\bin\Debug\frugo.jpg" Tytul="Picie" />
+  <Zdjecie Sciezka="E:\33INF-SSI\Lab4\Zadanie_10\bin\Debug\jasper.png" Tytul="Like" />
+  <Zdjecie Sciezka="E:\33INF-SSI\Lab4\Zadanie_10\bin\Debug\ludos.bmp" Tytul="Ludos" />
+  <Zdjecie Sciezka="E:\33INF-SSI\Lab4\Zadanie_10\bin\Debug\co_bys_zrobil.gif" Tytul="Co byś zrobił" />
+</Galeria>
